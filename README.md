@@ -13,3 +13,6 @@
 * Fun Fact:
 * 1 Truth or lie:
 * What does the owner of this repository think:
+
+## Summer Plans
+I will visit Massachusetts.
