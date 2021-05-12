@@ -8,7 +8,7 @@
 * Fun Fact about myself:
 
 ## My Breakout room partner
-* Name:
+* Name: any random thing
 * Year:
 * Fun Fact:
 * 1 Truth or lie:
